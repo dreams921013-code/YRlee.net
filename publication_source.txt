@@ -1,0 +1,315 @@
+Selected Publications
+Recent work from the lab.
+2026
+50.
+Shaping spherical porous carbon beads impregnated with K₂CO₃ for CO2 capture in humid flue gases and indoor air with low pressure drop
+A Ra Cho, Yooseob Won, Hyungseok Nam, Jaehyeon Park, Sung-Ho Jo, Jae-Young Kim, Young Cheol Park, Youn-Sang Bae, Yu-Ri Lee*
+
+Separation and Purification Technology, 2026, 389, 9, 136930.
+
+2025
+49.
+Quaternarized chitosan nanofiber and ZIF aerogel composites for synergetic CO2 cycloaddition catalysis
+Dan Bee Jung, Younghan Song, Yu-Ri Lee, Min Jun Cha, Keunhong Jeong, Jungkyu Choi*, Jongbeom Na*, Jin Young Seo*, Kyung-Youl Baek,
+
+Carbohydrate polymer, 2025, 347, 122685
+
+48.
+Catalytic wet peroxide oxidation of methyl orange over bifunctional Pd/Fe-MOF catalysts with in-situ generated H2O2
+Viet Le Nam Vo, Yu-Ri Lee*, Young-Min Chung
+
+Molecular Catalysis, 2026, 115297, 584.
+
+2024
+47.
+Multifunctional and Hierarchical Porous ZIF-8: Amine and Thiol Tagged via Mixed Multivariate Ligand Strategies for Enhanced CO2 and Iodine Adsorption
+Que Thi Nguyen, Jun Young Lee, Yejin Bae, Yu-Ri Lee, Younghan Song, Sang Hoon Kim*, Kyung-Youl Baek, Jongbeom Na*
+
+ChemSusChem, 2024, 18(4)
+
+46.
+Boosting catalytic performance for CO2 cycloaddition under mild condition via amine grafting on MIL-101-SO3H catalyst,
+Que Thi Nguyen, Jongbeom Na, Yu-Ri Lee*, Kyung-Youl Baek*
+
+Journal of Environmental Chemical Engineering, 2024, 12, 11852.
+
+45.
+Performance evaluation and sensitivity analysis of polyethyleneimine-based sorbent in a circulating fluidized bed carbon dioxide capture unit
+Yooseob Won, Jae-Young Kim, Young Cheol Park, Yu-Ri Lee, Sung-Ho Jo, Hyungseok Nam, Minkee Choi, Dong-Ho Lee
+
+Chemical Engineering Journal, 2024, 498, 155482
+
+44.
+Synthesis of Hierarchical Mesoporous ZIF-8 Functionalized with 1,2,4-Triazole by Mixed-Ligand Strategy for Enhanced CO2 Fixation Under Atmospheric Pressure
+Que Thi Nguyen, Yejin Bae, Xuan Huy Do, Sang Hoon Kim, Jongbeom Na, Kyung-Youl Baek*, Yu-Ri Lee*
+
+Energy & Fuels, 2024, 38, 7097-7107
+
+2023
+43.
+Loop-seal flow characteristics of a circulating fluidized bed for 3 MWth scale chemical looping
+Daewook Kim, Yooseob Won, Byung Wook Hwang, Jae Young Kim, Hana Kim, Yujin Choi, Yu-Ri Lee, Seung Yong Lee, Sung-Ho Jo, Young Cheol Park, Jeom-In Baek, Hyungseok Nam, Doyeon Lee, Ho Jung, Ryu, Jeong Hoo Choi,
+
+combustion system, 2023, 1, 127271
+
+42.
+Utilizing waste carbon residue from spent lithium-ion batteries as an adsorbent for CO2 capture: A recycling perspective
+Yu-Ri Lee, A. Ra Cho, Seongmin Kim, Rina Kim, Shuang Wang, Yosep Han*, Hyungseok Nam*, Doyeon Lee*
+
+Chemical Engineering Journal, 2023, 470, 144232
+
+41.
+Structural design of core-shell zeolitic imidazolate frameworks as an efficient catalyst for CO2 cycloaddition to epoxides
+Que Thi Nguyen, Keunhong Jeong, Yu-Ri Lee*, Kyung-Youl Baek*
+
+Journal of CO2 utilization, 2023, 61, 102451
+
+2022
+40.
+Development of high-performance adsorbent using KOH-impregnated rice husk-based activated carbon for indoor CO2 adsorption
+Shuang Wang, Yu-Ri Lee, Yooseob Won, Hana Kim, Se-Eun Jeong, Byung Wook Hwang, A Ra Cho, Jae, Young Kim, Young Cheol Park, Hyungseok Nam*, Dong-Ho Lee, Hyunuk Kim, Sung-Ho Jo
+
+Chemical Engineering Journal, 2022, 437, 1, 135378
+
+39.
+Epoxide functionalization of a pentaethylenehexamine adsorbent supported on macroporous silica for post-combustion CO2 capture
+A Ra Cho, Hana Kim, Yooseob Won, Yu-Ri Lee, Jae-Young Kim, Hyungseok Nam, Sung-Ho Jo, Young Cheol Park, Dong-Ho Lee
+
+Fuel, 2022, 325, 124938
+
+38.
+Highly Tunable Metal-Free Ring Opening Polymerization of Glycidol into Various Controlled Topologies Catalyzed by Frustrated Lewis Pairs
+Si Eun Kim, Yu-Ri Lee, Minseong Kim, Eunyong Seo, Hyun-Jong Paik, Jin Chul Kim, Ji-Eun Jeong, Young Il Park,* Byeong-Su Kim,* and Sang-Ho Lee
+
+Polymer Chemistry 2022, 13 ,(9), 1243-1252
+
+37.
+Experimental investigation of plastic waste pyrolysis fuel and diesel blends combustion and its flue gas emission analysis in a 5 kW heater
+Shuang Wang, David Aaron Rodriguez Alejandro, Hana Kim, Jae-Young Kim, Yu-Ri Lee, Walid Nabgan, Byung Wook Hwang, Doyeon Lee, Hyungseok Nam*, Ho-Jung Ryu
+
+Energy, 2022, 247, 123408
+
+2021
+36.
+Dual-functionalized ZIF-8 as an efficient acid-base bifunctional catalyst for the one-pot tandem reaction
+Yu-Ri Lee, Xuan Huy Do, Seung Sang Hwang, Kyung-Youl Baek
+
+Catalysis Today, 2021, 359, 124-132
+
+35.
+Sonochemical synthesis of Zr-based porphyrinic MOF-525 and MOF-545: Enhancement in catalytic and adsorption properties
+Kwangsun Yu, Yu-Ri Lee, Jin Young Seo, Kyung-Youl Baek, Young-Min Chung, Wha-Seung Ahn
+
+Catalysis Today, 2021, 359, 124-132.
+
+34.
+Electrocatalytic Oxygen Reduction over Co@Co3O4/N-doped Porous Carbon Derived from Pyrolysis of ZIF-8/67 on Cellulose Nanofibers
+Yu-Ri Lee, Hyeonseok Yoo, Jin sub Choi, Wha-Seung Ahn
+
+Cellulose, 2020, 27, 2723–2735
+
+2020
+33.
+Amine-functionalized bimetallic Co/Zn-zeolitic imidazolate frameworks as an efficient catalyst for the CO2 cycloaddition to epoxides under mild conditions
+Que Thi Nguyen, Xuan Huy Do, Kie Yong Cho, Yu-Ri Lee*, Kyung-Youl Baek*
+
+Journal of CO2 utilization, 2022, 61, 102061
+
+32.
+Amine-Functionalized Zeolitic Imidazolate Framework-8 (ZIF-8) Nanocrystals for Adsorption of Radioactive Iodine
+Yu-Ri Lee, Xuan Huy Do, Kie Yong Cho, Keunhong Jeong, Kyung-Youl Baek*
+
+ACS Appl. Nano Mater. 2020, 3, 10, 9852–9861.
+
+2019
+31.
+Poly(amidoamine) dendrimer immobilized on mesoporous silica foam (MSF) and fibrous nano-silica KCC-1 for Gd3+ adsorption in water
+Yu-Ri Lee, Siqian Zhang, Kwangsun Yu, Jin sub Choi, Wha-Seung Ahn
+
+Chemical Engineering Journal, 2019, 378, 122133.
+
+30.
+Ionic liquid entrapped UiO-66: Efficient adsorbent for Gd3+ capture from water
+Imteaz Ahmed, Keshab Kumar Adhikary, Yu-Ri Lee, Kyung Ho Row, Kyoung-Ku Kang, Wha-Seung Ahn*
+
+Chemical Engineering Journal, 2019, 370, 792-799
+
+29.
+Gd3+ adsorption over carboxylic- and amino-group dual-functionalized UiO-66
+Imteaz Ahmed, Yu-Ri Lee, Kwangsun Yu, Samiran Bhattacharjee, Wha-Seung Ahn*
+
+Industrial & Engineering Chemistry Research, 2019,58, 2324-2332.
+
+28.
+Fly-ash derived mesoporous silica foams for CO2 capture and aqueous Nd3+ adsorption
+Siqian Zhang, Seenu Ravi, Yu-Ri Lee, Ji-Whan, Ahn, Wha-Seung Ahn*
+
+Journal of Industrial and Engineering Chemistry, 2019, 72, 241-249.
+
+2018
+27.
+Adsorption of volatile organic compounds over MIL-125-NH2
+Bo-mi Kim, Yu-Ri Lee, Wha-Seung Ahn*
+
+Polyhedron, 2018, 154, 343-349.
+
+26.
+Selective adsorption of rare earth elements over functionalized Cr-MIL-101
+Yu-Ri Lee, Kwangsun Yu, Seenu Ravi, Wha-Seung Ahn*
+
+ACS Applied Materials & Interfaces, 2018, 10 (28), 23918-23927.
+
+25.
+Effects of polydimethylsiloxane coating of Ni-MOF-74 on CH4 storage
+Yu-Ri Lee, Sung min Cho, Wha-Seung Ahn*
+
+Korean J. Chem. Eng., 2018, 35(7), 1542-1546.
+
+24.
+EDTA-functionalized KCC-1 and KIT-6 mesoporous silicas for Nd3+ ion recovery from aqueous solutions
+Seenu Ravi, Siqian Zhang, Yu-Ri Lee, Kyoung-Ku Kang, Ji-Man Kim, Ji-Whan Ahn, Wha-Seung Ahn*
+
+J. Ind. Eng. Chem.2018, 67, 210-218
+
+23.
+Sodium silicate insulating foam reinforced with acid-treated fly ash
+Siqian Zhang, Yu-Ri Lee, Ji-Whan Ahn, Wha-Seung Ahn*
+
+Materials letters, 2018, 216, 56-59
+
+22.
+Pd nanoparticles on a microporous covalent triazine polymer for H2 production via formic acid decomposition
+Siqian Zhang, Yu-Ri Lee, Young-Min Chung, Wha-Seung Ahn*
+
+Materials letters, 2018, 215, 211-213
+
+2017
+21.
+Transfer hydrogenation of nitrobenzene to aniline in water using Pd nanoparticles immobilized on amine-functionalized UiO-66
+Chinna Krishna Prasad Neeli, Pillaiyar Puthiaraj, Yu-Ri Lee, Young-Min Chung , Sung-Hyeon Baeck, Wha Seung Ahn*
+
+Catalysis Today, 2017, 9, 4570-4579.
+
+20.
+Benzene triamido-tetraphosphonic acid immobilized on mesoporous silica for adsorption of Nd3+ ions in aqueous solution
+Seenu Ravi, Yu-Ri Lee, Kwangsun Yu, Ji-Whan Ahn, Wha-Seung Ahn*
+
+Miropor. Mesopor. Mater., 2017, 258, 62-71.
+
+19.
+Oxidation of tetralin to 1-tetralone over CrAPO-5
+S. Bhattacharjee, Yu-Ri Lee, Wha-Seung Ahn*
+
+Korean J. Chem. Eng., 2017, 34, 701.
+
+18.
+Synthesis of nanoporous materials via recycling coal fly ash and other solid wastes: A mini review
+Yu-Ri Lee, June Thet Soe, Siqian Zhang, Ji-Whan Ahn, Min Bum Park, Wha-Seung Ahn*
+
+Chemical Engineering Journal, 2017, 317, 821–843.
+
+17.
+Microporous amine-functionalized aromatic polymers and their carbonized products for CO2 adsorption
+Pillaiyar Puthiaraj, Yu-Ri Lee, Wha-Seung Ahn*
+
+Chemical Engineering Journal, 2017, 319, 65-74.
+
+16.
+Extrapolation of the Clausius-Clapeyron plot for estimating the CO2 adsorption capacities of zeolites at moderate temperature conditions
+Yu-Ri Lee, Seung-Hwan Hong, Wha-Seung Ahn*
+
+Korean J. Chem. Eng., 2017, 34(1), 37-40.
+
+2016
+15.
+Triazine-based covalent organic polymers: design, synthesis and applications in heterogeneous catalysis
+Pillaiyar Puthiaraj, Yu-Ri Lee, Siqian Zhang, Wha-Seung Ahn*
+
+J. Mater. Chem. A, 2016, 4, 16288-16311.
+
+14.
+Ti-MIL-125-NH2 membrane grown on a TiO2 disc by combined microwave/ultrasonic heating: facile synthesis for catalytic application
+Yu-Ri Lee, Sung-Min Cho, Sung-Hyeon Baeck, Wha-Seung Ahn*,Won-Seung Cho
+
+RSC Adv., 2016, 6, 63286-63290.
+
+13.
+CO2 Capture and Ca2+ Exchange Using Zeolite A and 13X Prepared from Power Plant Fly Ash
+June Thet Soe, Su-Sung Kim, Yu-Ri Lee, Ji-Whan Ahn, Wha-Seung Ahn*
+
+Bull. Korean Chem. Soc. 2016, Vol. 37, 490–493.
+
+12.
+CO2 Adsorption Over Metal-Organic Frameworks: A Mini Review
+Chao Chen, Yu-Ri Lee, Wha-Seung Ahn*
+
+J. Nanosci. Nanotechnol., 2016, Vol. 16, No. 5, 4291-4301.
+
+2015
+11.
+Metal–Organic Frameworks for Catalysis
+Samiran Bhattacharjee, Yu-Ri Lee, Pillaiyar Puthiaraj, Sung-Min Cho, Wha-Seung Ahn*
+
+Catal. Surv. Asia, 2015, 19(4), 203-222.
+
+10.
+Facile synthesis of an IRMOF-3 membrane on porous Al2O3 substrate via a sonochemical route
+Yu-Ri Lee, Sung-Min Cho, Wha-Seung Ahn*, Chi-Hoon Lee, Kyu-Ho Lee, Won-Seung Cho*
+
+Micropor. Mesopor. Mater., 2015, 213, 161-168.
+
+9.
+ZIF-8: A comparison of synthesis methods
+Yu-Ri Lee, Min-Seok Jang, Hye-Young Cho, Hee-Jin Kwon, Sangho Kim, Wha-Seung Ahn*
+
+Chemical Engineering Journal, 2015, 271, 276–280.
+
+8.
+Pilot-scale synthesis of a zirconium-benzenedicarboxylate UiO-66 for CO2 adsorption and catalysis
+Se-Na Kim, Yu-Ri Lee, Seung-Hwan Hong, Min-Seok Jang, Wha-Seung Ahn*
+
+Catalysis Today, 2015, 245, 54–60.
+
+7.
+Microporous covalent triazine polymers: efficient Friedel-Crafts synthesis and adsorption/storage of CO2 and CH4
+Pillaiyar Puthiaraj, Sung-Min Cho, Yu-Ri Lee, Wha-Seung Ahn*
+
+J. Mater. Chem. A, 2015, 3, 6792-6797.
+
+6.
+Direct Synthesis of Hydrogen Peroxide from Hydrogen and Oxygen over Pd-supported Metal-Organic Framework Catalysts
+Young-Min Chung, Yu-Ri Lee, Wha-Seung Ahn*
+
+Bull. Korean Chem. Soc., 2015, Vol. 36, 1378–1383.
+
+5.
+Post-synthesis functionalization of a zeolitic imidazolate structure ZIF-90: a study on removal of Hg(II) from water and epoxidation of alkenes
+Samiran Bhattacharjee, Yu-Ri Lee, Wha-Seung Ahn*
+
+CrystEngComm, 2015, 17, 2575-2582.
+
+4.
+CO2 Cycloaddition of Epichlorohydrin over NH2 Functionalized MIL-101
+Min-Seok Jang, Yu-Ri Lee, Wha-Seung Ahn*
+
+Bull. Korean Chem. Soc, 2015, 36, 363-366.
+
+2014
+3.
+A new site-isolated acid–base bifunctional metal–organic framework for one-pot tandem reaction
+Yu-Ri Lee, Young-Min Chung*, Wha-Seung Ahn*
+
+RSC Adv., 2014, 4, 23064-23067.
+
+2013
+2.
+Dry-gel conversion synthesis of Cr-MIL-101 aided by grinding: high surface area and high yield synthesis with minimum purification
+Jun Kim, Yu-Ri Lee, Wha-Seung Ahn*
+
+Chem. Commun., 2013, 49, 7647-7649.
+
+1.
+Synthesis of metal-organic frameworks: A mini review
+Yu-Ri Lee, Jun Kim, Wha-Seung Ahn*
+
+Korean J. Chem. Eng., 2013, 30(9), 1667-1680.
