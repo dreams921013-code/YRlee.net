@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="ko">
+<head>
+<meta charset="utf-8"/><meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="군산대학교 환경에너지소재연구실 공식 홈페이지 초안" name="description"/><meta content="#f0f5fd" name="theme-color"/>
+<title>Journal | 환경에너지소재연구실</title>
+<link href="style.css" rel="stylesheet"/>
+<link href="v12-theme.css" rel="stylesheet"/><script type="module" src="firebase-public.js"></script>
+</head>
+<body data-page="journal.html">
+<a class="skip" href="#main">본문 바로가기</a>
+<header class="site-header"><div class="wrap header-inner">
+<a aria-label="환경에너지소재연구실 홈" class="logo" href="index.html"><span class="logo-mark">E</span><span class="logo-text"><strong>환경에너지소재연구실</strong><small>Environmental Energy Material Laboratory</small></span></a>
+<nav aria-label="데스크톱 주요 메뉴" class="desktop-nav"><div class="nav-item"><a class="" href="index.html">Home</a></div><div class="nav-item has-drop"><a class="" href="research.html">Research</a><button aria-expanded="false" aria-label="Research 하위 메뉴 펼치기" class="drop-toggle" type="button"><span aria-hidden="true" class="chevron"></span></button><div class="dropdown"><a href="research.html">Research Area</a><a href="research-activities.html">Research Activities</a></div></div><div class="nav-item has-drop"><a class="" href="team.html">Team</a><button aria-expanded="false" aria-label="Team 하위 메뉴 펼치기" class="drop-toggle" type="button"><span aria-hidden="true" class="chevron"></span></button><div class="dropdown"><a href="professor.html">Professor</a><a href="members.html">Members</a><a href="alumni.html">Alumni</a></div></div><div class="nav-item has-drop"><a class="active" href="publication.html">Publication</a><button aria-expanded="false" aria-label="Publication 하위 메뉴 펼치기" class="drop-toggle" type="button"><span aria-hidden="true" class="chevron"></span></button><div class="dropdown"><a class="active" href="journal.html">Journal</a><a href="patent.html">Patent</a></div></div><div class="nav-item"><a class="" href="gallery.html">Gallery</a></div><div class="nav-item"><a class="" href="news.html">News</a></div><div class="nav-item"><a class="" href="contact.html">Contact</a></div></nav>
+<button aria-controls="mobileNav" aria-expanded="false" aria-label="모바일 메뉴" class="mobile-button" id="mobileButton" type="button">☰</button>
+<button aria-label="사이트 검색" class="search-button" id="searchOpen" type="button"><svg aria-hidden="true" viewbox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5"></circle><path d="m15.5 15.5 5 5"></path></svg></button>
+</div><nav aria-label="모바일 주요 메뉴" class="mobile-nav" id="mobileNav"><div class="nav-item"><a class="" href="index.html">Home</a></div><div class="nav-item has-drop"><a class="" href="research.html">Research</a><button aria-expanded="false" aria-label="Research 하위 메뉴 펼치기" class="drop-toggle" type="button"><span aria-hidden="true" class="chevron"></span></button><div class="dropdown"><a href="research.html">Research Area</a><a href="research-activities.html">Research Activities</a></div></div><div class="nav-item has-drop"><a class="" href="team.html">Team</a><button aria-expanded="false" aria-label="Team 하위 메뉴 펼치기" class="drop-toggle" type="button"><span aria-hidden="true" class="chevron"></span></button><div class="dropdown"><a href="professor.html">Professor</a><a href="members.html">Members</a><a href="alumni.html">Alumni</a></div></div><div class="nav-item has-drop"><a class="active" href="publication.html">Publication</a><button aria-expanded="false" aria-label="Publication 하위 메뉴 펼치기" class="drop-toggle" type="button"><span aria-hidden="true" class="chevron"></span></button><div class="dropdown"><a class="active" href="journal.html">Journal</a><a href="patent.html">Patent</a></div></div><div class="nav-item"><a class="" href="gallery.html">Gallery</a></div><div class="nav-item"><a class="" href="news.html">News</a></div><div class="nav-item"><a class="" href="contact.html">Contact</a></div></nav></header>
+<main id="main">
+<header class="page-banner"><div class="wrap"><small>RESEARCH OUTPUTS</small><h1>Publication <em>Timeline.</em></h1><p>환경에너지소재연구실의 학술 논문 목록입니다.</p><div aria-hidden="true" class="banner-ornament">EEM  /  RESEARCH  &amp;  MATERIALS</div></div></header>
+<section class="page-layout journal-page">
+<div class="wrap">
+<div class="journal-intro"><div><span class="journal-eyebrow">PUBLICATIONS ARCHIVE</span><h2>Research record, year by year.</h2><p>논문 제목, 저자, 학술지 정보를 연도별로 확인할 수 있습니다.</p></div>
+<div aria-live="polite" class="journal-total" id="publicationCount">50 publications</div></div>
+<div class="journal-tools"><label for="publicationSearch">Find a publication</label><input aria-label="논문 제목, 저자 또는 연도 검색" autocomplete="off" id="publicationSearch" placeholder="Search by title, author, year..." type="search"/></div><div class="v12-journal-shell"><aside aria-label="논문 연도별 탐색" class="v12-journal-aside"><h2>JUMP TO YEAR</h2><div aria-label="연도별 바로가기" class="journal-year-nav" id="publicationYears"></div></aside><div aria-live="polite" class="journal-list" id="journalList"></div></div>
+
+<p class="journal-update-note">논문 정보는 제공받은 목록을 기준으로 작성했습니다. DOI 링크와 서지 세부 사항은 확인 후 추가할 수 있습니다.</p>
+</div>
+</section>
+</main>
+<footer class="footer"><div class="wrap"><span>© <span id="year"></span> Environmental Energy Material Laboratory · Kunsan National University</span><span>Publication list entered · Website draft v12</span></div></footer>
+<dialog aria-label="사이트 검색" class="search-dialog" id="searchDialog"><div class="search-dialog-head"><h2>Search this site</h2><button aria-label="닫기" id="searchClose" type="button">✕</button></div><label for="siteSearch" style="font-size:13px">연구 분야, 논문, 연구실 소식을 검색할 수 있습니다.</label><input id="siteSearch" placeholder="예: MOF, Professor, Journal" type="search"/><div aria-live="polite" class="search-results" id="searchResults"></div></dialog>
+</body></html>

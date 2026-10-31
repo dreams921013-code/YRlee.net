@@ -1,0 +1,18 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+    match /site-media/{fileName} {
+      allow get: if true;
+      allow list: if false;
+      allow create, update: if request.auth != null
+        && request.auth.uid == 'REPLACE_WITH_ADMIN_UID'
+        && request.resource.size < 5 * 1024 * 1024
+        && request.resource.contentType.matches('image/(jpeg|png|webp)');
+      allow delete: if request.auth != null
+        && request.auth.uid == 'REPLACE_WITH_ADMIN_UID';
+    }
+    match /{allPaths=**} {
+      allow read, write: if false;
+    }
+  }
+}

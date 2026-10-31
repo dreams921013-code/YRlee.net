@@ -1,0 +1,15 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /publicSite/content {
+      allow get: if true;
+      allow list: if false;
+      // Replace with UID from Firebase Authentication > Users.
+      allow create, update, delete: if request.auth != null
+        && request.auth.uid == 'REPLACE_WITH_ADMIN_UID';
+    }
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
